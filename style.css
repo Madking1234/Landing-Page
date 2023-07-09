@@ -1,0 +1,67 @@
+.frontstart{
+    display: flex;
+    flex-direction: row;
+   justify-content: space-evenly;
+   margin: 50px;
+    padding: 50px;
+    font-size: 26px;
+}
+.unorderedlist1{
+    list-style: none;
+    color: white;
+}
+
+.unorderedlist2{
+    list-style: none;
+    color: white;
+    text-align: right;
+   
+    
+}
+
+    
+
+.button {
+    background-color:black;
+    size: 25px;
+    
+    color: white;
+    padding: 25px 70px;
+    text-align: center;
+    border-radius: 10px;
+    display: inline-block;
+    font-size: 20px;
+}
+#user_email{
+    color: white;
+    padding: 20px 32px;
+    text-align: center;
+    border-radius: 10px;
+    border-width: 7px;
+    
+    font-size: 20px;
+    border-color: black;
+    
+   
+}
+#nospam{
+    color: white;
+    text-align: c;
+
+}
+.frontend{
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    justify-content: space-around;
+    padding: 0px 0px 100px;
+    
+    
+    
+    font-size: 25px;
+    
+}
+
+.instagram{
+    margin-bottom: 18px;
+}
